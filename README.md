@@ -1,4 +1,3 @@
-﻿# STONE-PAPER-AND-SCISSOR
 # 🪨📄✂️ Stone Paper Scissors Game
 
 A simple **Stone–Paper–Scissors** game built using **HTML, CSS, and JavaScript**.
@@ -28,4 +27,5 @@ Open `index.html` in a browser and play.
 
 
 If you want it **even more minimal (just 5–6 lines)**, say the word.
+
 
